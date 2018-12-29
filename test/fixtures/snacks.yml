@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  slot_id: 1
+  price: 1
+  vending_machine_id: 1
+  image: MyString
+
+two:
+  slot_id: 1
+  price: 1
+  vending_machine_id: 1
+  image: MyString
